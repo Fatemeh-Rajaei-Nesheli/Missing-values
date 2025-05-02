@@ -26,8 +26,11 @@ The dataset contains university performance metrics from *The Guardian Universit
 ## 📁 Project Structure
 
 ├── README.md                     # Project overview
+
 ├── requirements.txt              # Python dependencies
+
 ├── handling_missing_values.py    # Script for handling missing values
+
 ├── filling_missing_values.py     # Script for additional analysis and visualizations
 
 ---
@@ -40,6 +43,7 @@ To run this project:
    ```bash
    git clone https://github.com/Fatemeh_Rajaei_Nesheli/Missing-values.git
    cd Missing-values
+   
 2. Install the required packages:
    pip install -r requirements.txt
 
