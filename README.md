@@ -1,8 +1,9 @@
-Handling Missing Values in University Ranking Data
+#Handling Missing Values in University Ranking Data
 The dataset used in this project was provided by UCL for a recruitment task and is not publicly available. Therefore, it has not been included in this repository.
 This repository contains the complete code used for processing and handling missing values in a real-world university ranking dataset. The project was completed as part of the application process for a Data Analyst role at UCL and demonstrates effective preprocessing, analysis, and imputation strategies using Python.
 ________________________________________
 📌 Project Description
+
 The dataset contains university performance metrics from The Guardian University Guide, including missing values across several numerical features. This project:
 •	Loads and cleans the data
 •	Identifies and summarizes missing data
