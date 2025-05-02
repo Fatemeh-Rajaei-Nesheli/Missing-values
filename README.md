@@ -25,11 +25,10 @@ The dataset contains university performance metrics from *The Guardian Universit
 
 ## 📁 Project Structure
 
-├── README.md # Project overview
-├── requirements.txt # Python dependencies
-├── handling_missing_values.py # Script for handling missing values
-├── filling_missing_values.py # Script for additional analysis and visualizations
-
+├── README.md                     # Project overview
+├── requirements.txt              # Python dependencies
+├── handling_missing_values.py    # Script for handling missing values
+├── filling_missing_values.py     # Script for additional analysis and visualizations
 
 ---
 
