@@ -99,5 +99,7 @@ This project is released under the MIT License.
 ## 👩‍💻 Author
 
 Fatemeh Rajaei Nesheli
+
 Research Assistant in AI and Robotics
+
 📧 fatemeh.raj [at] gmail [dot] com
