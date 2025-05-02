@@ -45,14 +45,14 @@ To run this project:
    cd Missing-values
    
 2. Install the required packages:
- ```bash
+
    pip install -r requirements.txt
 
 
 ##Usage
 1. Preprocessing
 To clean the dataset and apply imputation methods, run:
-```bash
+
 python handling_missing_values.py
 
 This script generates multiple versions of the cleaned dataset using different imputation techniques.
@@ -60,7 +60,7 @@ This script generates multiple versions of the cleaned dataset using different i
 2. Exploratory Analysis
 To perform imputation and explore missing data patterns:
 
-```bash
+
 python filling_missing_values.py
 
 
