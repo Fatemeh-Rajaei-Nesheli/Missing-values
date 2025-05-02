@@ -49,7 +49,7 @@ To run this project:
    pip install -r requirements.txt
 
 
-##Usage
+## Usage
 1. Preprocessing
 To clean the dataset and apply imputation methods, run:
 
@@ -64,7 +64,8 @@ To perform imputation and explore missing data patterns:
 python filling_missing_values.py
 
 
-##Features in the Dataset
+## Features in the Dataset
+
 Year
 
 Institution
@@ -91,10 +92,12 @@ Average Entry Tariff
 
 Guardian Score / 100
 
-##📄 License
+## 📄 License
+
 This project is released under the MIT License.
 
-##👩‍💻 Author
+## 👩‍💻 Author
+
 Fatemeh Rajaei Nesheli
 Research Assistant in AI and Robotics
 📧 fatemeh.raj [at] gmail [dot] com
