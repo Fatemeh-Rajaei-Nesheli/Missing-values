@@ -29,9 +29,9 @@ The dataset contains university performance metrics from *The Guardian Universit
 
 ├── requirements.txt              # Python dependencies
 
-├── handling_missing_values.py    # Script for handling missing values
+├── handling_missing_values.py    # Script for choosing the best method
 
-├── filling_missing_values.py     # Script for additional analysis and visualizations
+├── filling_missing_values.py     # Script for imputation
 
 ---
 
@@ -45,13 +45,14 @@ To run this project:
    cd Missing-values
    
 2. Install the required packages:
+ ```bash
    pip install -r requirements.txt
 
 
-Usage
+##Usage
 1. Preprocessing
 To clean the dataset and apply imputation methods, run:
-
+```bash
 python handling_missing_values.py
 
 This script generates multiple versions of the cleaned dataset using different imputation techniques.
@@ -59,10 +60,11 @@ This script generates multiple versions of the cleaned dataset using different i
 2. Exploratory Analysis
 To perform imputation and explore missing data patterns:
 
+```bash
 python filling_missing_values.py
 
 
-Features in the Dataset
+##Features in the Dataset
 Year
 
 Institution
@@ -89,10 +91,10 @@ Average Entry Tariff
 
 Guardian Score / 100
 
-📄 License
+##📄 License
 This project is released under the MIT License.
 
-👩‍💻 Author
+##👩‍💻 Author
 Fatemeh Rajaei Nesheli
 Research Assistant in AI and Robotics
 📧 fatemeh.raj [at] gmail [dot] com
